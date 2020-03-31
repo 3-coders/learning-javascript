@@ -6,6 +6,8 @@ Steps
 * NO USE OF FUNCTIONS.
 * For each question, create a new file
 * You code will get the input from outside like ``node file.js input``
+* Create a directory named `src`
+* All the files you will create should be in the `src` directory
 
 1. isEven - Write a program that determines if a given number is even or not. 
 
